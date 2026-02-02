@@ -1,0 +1,48 @@
+We are creating  a web application using ASP.NET Core,sql server,sql server
+
+#store:
+Product Categories
+Products
+Orders
+Dispatchs
+Login
+payments
+
+#users
+login/registration/change password
+serch
+card managements
+order & payment
+dispatechs
+
+we create layerd archtechers
+- to keep the code seprate
+--repositry and dependency injection
+--async and await
+--dtos and generic  repositry
+
+we create following layered
+1. core/domain/entity: class library projects
+--it will contain domain classes/entity class 
+2. infra/repo/data layer/business layer:it will class library projects
+--create context and repositry
+3. shared/utility:class library type of project
+--enums,common utility function
+4. web project: asp.net core project
+--web application/ui+backend
+
+reusability:
+core->infra->web
+shared all of them
+
+****************work start*****************
+1. core
+2. go to infra project create context
+--EF core install
+
+****layered archtechiture rule for Migration
+1. where context is present where we run Migration command(Add-Migration 'init' then after Migration run update-database)
+2. in our solution multiple project so i need startup project where i have context avalible
+
+
+***************3333333333create repositry==================================
