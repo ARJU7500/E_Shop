@@ -10,7 +10,13 @@ builder.Services.AddDbContextPool<ShopContext>(
     opt=>opt.UseSqlServer(con));
 
 var app = builder.Build();
+app.UseStaticFiles();
+app.MapAreaControllerRoute(
+    name: "storearea",
+    areaName: "StoreArea",
+    pattern: "{area:exists}/{controller=StoreHome}/{action=Index}/{id?}"
+);
+
 app.MapDefaultControllerRoute();
-app.MapGet("/", () => "Hello World!");
 
 app.Run();

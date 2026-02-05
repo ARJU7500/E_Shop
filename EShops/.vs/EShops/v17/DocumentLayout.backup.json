@@ -3,52 +3,28 @@
   "WorkspaceRootPath": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Infra\\Migrations\\20260202195834_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infra\\Migrations\\20260202195834_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\core\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|solutionrelative:core\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\webapp\\views\\managestore\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\managestore\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\core\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|solutionrelative:core\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\core\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|solutionrelative:core\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\webapp\\controllers\\managestorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\managestorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\core\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|solutionrelative:core\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\webapp\\areas\\storearea\\controllers\\storehomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\areas\\storearea\\controllers\\storehomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\core\\orderpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|solutionrelative:core\\orderpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\core\\orderdispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|solutionrelative:core\\orderdispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\core\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|solutionrelative:core\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|solutionrelative:core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\core\\maincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|solutionrelative:core\\maincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\core\\dispatchagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A04B17-B6AC-463D-9116-79A91316A4E6}|Core\\Core.csproj|solutionrelative:core\\dispatchagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60140858-AA14-4CF6-8042-D099F15BA71C}|Infra\\Infra.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\infra\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60140858-AA14-4CF6-8042-D099F15BA71C}|Infra\\Infra.csproj|solutionrelative:infra\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|d:\\core project\\e_shop\\2 feb 2026\\e_shop\\eshops\\webapp\\views\\managestore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C602855-3CBE-4E15-ABEE-19FF241C6B5D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\managestore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,163 +34,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260202195834_init.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Infra\\Migrations\\20260202195834_init.cs",
-              "RelativeDocumentMoniker": "Infra\\Migrations\\20260202195834_init.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Infra\\Migrations\\20260202195834_init.cs",
-              "RelativeToolTip": "Infra\\Migrations\\20260202195834_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:58:35.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ShopContext.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Infra\\ShopContext.cs",
-              "RelativeDocumentMoniker": "Infra\\ShopContext.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Infra\\ShopContext.cs",
-              "RelativeToolTip": "Infra\\ShopContext.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAgwGYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:54:35.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserMaster.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\UserMaster.cs",
-              "RelativeDocumentMoniker": "Core\\UserMaster.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\UserMaster.cs",
-              "RelativeToolTip": "Core\\UserMaster.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:53:54.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SubCategory.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\SubCategory.cs",
-              "RelativeDocumentMoniker": "Core\\SubCategory.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\SubCategory.cs",
-              "RelativeToolTip": "Core\\SubCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:53:48.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Store.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\Store.cs",
-              "RelativeDocumentMoniker": "Core\\Store.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\Store.cs",
-              "RelativeToolTip": "Core\\Store.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:53:44.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Products.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\Products.cs",
-              "RelativeDocumentMoniker": "Core\\Products.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\Products.cs",
-              "RelativeToolTip": "Core\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:53:38.787Z",
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\Views\\ManageStore\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\ManageStore\\SignIn.cshtml",
+              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\Views\\ManageStore\\SignIn.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\ManageStore\\SignIn.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T21:23:14.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "OrderPayments.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\OrderPayments.cs",
-              "RelativeDocumentMoniker": "Core\\OrderPayments.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\OrderPayments.cs",
-              "RelativeToolTip": "Core\\OrderPayments.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBMAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:53:15.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderDispatch.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\OrderDispatch.cs",
-              "RelativeDocumentMoniker": "Core\\OrderDispatch.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\OrderDispatch.cs",
-              "RelativeToolTip": "Core\\OrderDispatch.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\Views\\ManageStore\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\ManageStore\\Index.cshtml",
+              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\Views\\ManageStore\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\ManageStore\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:53:10.732Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T21:21:18.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderDetails.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\OrderDetails.cs",
-              "RelativeDocumentMoniker": "Core\\OrderDetails.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\OrderDetails.cs",
-              "RelativeToolTip": "Core\\OrderDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:53:08.103Z",
+              "DocumentIndex": 2,
+              "Title": "WebApp",
+              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
+              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\WebApp.csproj",
+              "RelativeToolTip": "WebApp\\WebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T21:16:02.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\Order.cs",
-              "RelativeDocumentMoniker": "Core\\Order.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\Order.cs",
-              "RelativeToolTip": "Core\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ManageStoreController.cs",
+              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\Controllers\\ManageStoreController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\ManageStoreController.cs",
+              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\Controllers\\ManageStoreController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\ManageStoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:53:01.806Z",
+              "WhenOpened": "2026-02-05T21:21:08.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainCategory.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\MainCategory.cs",
-              "RelativeDocumentMoniker": "Core\\MainCategory.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\MainCategory.cs",
-              "RelativeToolTip": "Core\\MainCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:52:58.652Z",
+              "WhenOpened": "2026-02-05T20:56:42.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DispatchAgency.cs",
-              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\DispatchAgency.cs",
-              "RelativeDocumentMoniker": "Core\\DispatchAgency.cs",
-              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\Core\\DispatchAgency.cs",
-              "RelativeToolTip": "Core\\DispatchAgency.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "StoreHomeController.cs",
+              "DocumentMoniker": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\Areas\\StoreArea\\Controllers\\StoreHomeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Areas\\StoreArea\\Controllers\\StoreHomeController.cs",
+              "ToolTip": "D:\\CORE PROJECT\\E_SHOP\\2 feb 2026\\E_Shop\\EShops\\WebApp\\Areas\\StoreArea\\Controllers\\StoreHomeController.cs",
+              "RelativeToolTip": "WebApp\\Areas\\StoreArea\\Controllers\\StoreHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:52:54.202Z",
+              "WhenOpened": "2026-02-05T20:54:27.658Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1819,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

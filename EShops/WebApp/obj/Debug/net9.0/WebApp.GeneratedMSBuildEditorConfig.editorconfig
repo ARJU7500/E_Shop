@@ -27,3 +27,19 @@ build_property.MSBuildProjectDirectory = D:\CORE PROJECT\E_SHOP\2 feb 2026\E_Sho
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
+
+[D:/CORE PROJECT/E_SHOP/2 feb 2026/E_Shop/EShops/WebApp/Areas/StoreArea/Views/StoreHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFN0b3JlSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CORE PROJECT/E_SHOP/2 feb 2026/E_Shop/EShops/WebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CORE PROJECT/E_SHOP/2 feb 2026/E_Shop/EShops/WebApp/Views/ManageStore/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlU3RvcmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CORE PROJECT/E_SHOP/2 feb 2026/E_Shop/EShops/WebApp/Views/ManageStore/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlU3RvcmVcU2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
